@@ -3,6 +3,8 @@
 HTML, CSS, JavaScript만으로 구현된 순수 프론트엔드(Vanilla) Todolist 애플리케이션입니다.
 별도의 빌드 과정이나 서버(백엔드) 없이 브라우저에서 바로 실행할 수 있습니다.
 
+**GitHub Pages 배포 주소 (Live demo)**: https://seoljinuk.github.io/todolist/
+
 ## 소개 (Overview)
 
 - 할 일(Task)을 추가, 수정, 삭제, 완료 처리할 수 있는 간단한 Todolist입니다.
